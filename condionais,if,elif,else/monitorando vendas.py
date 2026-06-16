@@ -22,4 +22,3 @@ if (a >=0 and b >=0  and c >=0 ):
 else:
     print('Erro: Os dias não podem ser negativos')    
 
-    
